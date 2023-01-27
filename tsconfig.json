@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": ["es2019"],
+    "module": "commonjs",
+    "target": "es2018",
+    "declaration": true,
+    "noImplicitAny": true,
+    "skipLibCheck": true,
+    "outDir": "dist"
+  },
+  "exclude": ["dist/**", "node_modules/**"]
+}
